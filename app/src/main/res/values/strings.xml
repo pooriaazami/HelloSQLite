@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HelloSQLite</string>
+    <string name="add_new_person">Add new Person</string>
+    <string name="name">name</string>
+    <string name="family">family</string>
+    <string name="age">age</string>
+    <string name="add">Add</string>
+    <string name="cancel">cancel</string>
+</resources>
